@@ -1,0 +1,590 @@
+source,source_label,target,target_label,weight
+10,Anri of Astora,101,Horace the Hushed,79
+50,Dancer of the Boreal Valley,204,Sword Master,50
+78,Fume Knight,204,Sword Master,39
+19,Black Dragon Kalameet,96,Hawkeye Gough,35
+22,Black Hydra,227,hydra,34
+10,Anri of Astora,226,Yuria of Londor,34
+119,Leonhard,175,Rosaria,33
+187,Siegward of Catarina,224,Yhorm the Giant,33
+66,Elana,218,Velstadt,31
+72,Eygon of Carim,103,Irina of Carim,31
+89,Greirat of the Undead Settlement,184,Shrine Handmaid,26
+168,Pontiff Sulyvahn,204,Sword Master,24
+89,Greirat of the Undead Settlement,130,Lothric,23
+3,Aldrich,10,Anri of Astora,22
+53,Darkeater Midir,182,Shira,22
+163,Petrus of Thorolund,173,Reah of Thorolund,21
+12,Ashen Knight Boyd,75,Fire Keeper,20
+89,Greirat of the Undead Settlement,187,Siegward of Catarina,20
+196,Soul of Cinder,204,Sword Master,20
+7,Anastacia of Astora,114,Knight Lautrec,19
+43,Creighton the Wanderer,143,Mild Mannered Pate,19
+39,Company Captain Yorshka,55,Darkmoon Knightess,19
+225,Yoel of Londor,226,Yuria of Londor,19
+158,Orbeck of Vinheim,226,Yuria of Londor,18
+64,Dusk of Oolacile,67,Elizabeth,17
+92,Gwyn Lord of Cinder,112,Kingseeker Frampt,16
+92,Gwyn Lord of Cinder,128,Lord of Cinder,16
+156,Old Dragonslayer,159,Ornstein and Smough,16
+74,Filianore,182,Shira,16
+192,Slave Knight Gael,204,Sword Master,16
+51,Dark Sun Gwyndolin,55,Darkmoon Knightess,15
+92,Gwyn Lord of Cinder,93,Gwynevere,15
+15,Belfry Gargoyle,17,Bell Keeper,15
+10,Anri of Astora,39,Company Captain Yorshka,15
+89,Greirat of the Undead Settlement,168,Pontiff Sulyvahn,15
+184,Shrine Handmaid,190,Sirris of the Sunless Realms,14
+184,Shrine Handmaid,226,Yuria of Londor,14
+10,Anri of Astora,204,Sword Master,14
+62,Domhnall of Zena,159,Ornstein and Smough,13
+56,Darkstalker Kaathe,92,Gwyn Lord of Cinder,13
+43,Creighton the Wanderer,190,Sirris of the Sunless Realms,13
+204,Sword Master,219,Vendrick,12
+100,Holy Knight Hodrick,190,Sirris of the Sunless Realms,12
+69,Emma,130,Lothric,12
+99,High Lord Wolnir,204,Sword Master,12
+18,Big Hat Logan,90,Griggs of Vinheim,11
+18,Big Hat Logan,181,Seath the Scaleless,11
+34,Centipede Demon,195,Solaire of Astora,11
+92,Gwyn Lord of Cinder,181,Seath the Scaleless,11
+92,Gwyn Lord of Cinder,204,Sword Master,11
+12,Ashen Knight Boyd,184,Shrine Handmaid,11
+10,Anri of Astora,168,Pontiff Sulyvahn,11
+36,Champion Gundyr,204,Sword Master,11
+1,Abyss Watchers,204,Sword Master,11
+3,Aldrich,168,Pontiff Sulyvahn,11
+3,Aldrich,51,Dark Sun Gwyndolin,11
+152,Nico of Thorolund,220,Vince of Thorolund,10
+77,Four Kings,222,Witch Beatrice,10
+87,Great Grey Wolf Sif,204,Sword Master,10
+26,Blue Sentinel Targray,179,Ruin Sentinel,10
+175,Rosaria,223,Yellowfinger Heysel,10
+36,Champion Gundyr,106,Iudex Gundyr,10
+171,Quelana of Izalith,206,The Bed of Chaos,9
+56,Darkstalker Kaathe,112,Kingseeker Frampt,9
+16,Bell Gargoyle,114,Knight Lautrec,9
+185,Sieglinde of Catarina,186,Siegmeyer of Catarina,9
+51,Dark Sun Gwyndolin,93,Gwynevere,9
+14,Asylum Demon,201,Stray Demon,9
+204,Sword Master,208,The Bridge Wyvern,9
+136,Manscorpion Tark,180,Scorpioness Najka,9
+193,Smelter Demon,204,Sword Master,9
+204,Sword Master,214,Throne Watcher and Throne Defender,9
+1,Abyss Watchers,97,Hawkwood,9
+158,Orbeck of Vinheim,184,Shrine Handmaid,9
+1,Abyss Watchers,225,Yoel of Londor,9
+123,Londor Pale Shade,226,Yuria of Londor,9
+11,Archdeacon McDonnell,58,Deacons of the Deep,9
+50,Dancer of the Boreal Valley,168,Pontiff Sulyvahn,9
+130,Lothric,168,Pontiff Sulyvahn,9
+130,Lothric,204,Sword Master,9
+92,Gwyn Lord of Cinder,149,Nameless King,9
+149,Nameless King,159,Ornstein and Smough,9
+152,Nico of Thorolund,173,Reah of Thorolund,8
+92,Gwyn Lord of Cinder,195,Solaire of Astora,8
+51,Dark Sun Gwyndolin,92,Gwyn Lord of Cinder,8
+38,Chaos Witch Quelaag,135,Maneater Mildred,8
+25,Blacksmith Lenigrast,198,Stone Trader Chloanne,8
+32,Carhillion of the Fold,174,Rosabeth of Melfia,8
+141,Merchant Hag Melentia,143,Mild Mannered Pate,8
+129,Lost Sinner,131,Lucatiel of Mirrah,8
+63,DragonRider,200,Straid of Olaphis,8
+4,Alsanna,28,Burnt Ivory King,8
+108,Jester Thomas,148,Mytha,8
+170,Pursuer,204,Sword Master,8
+70,Executioner Chariot,71,Executioners Chariot,8
+188,Sir Alonne,204,Sword Master,8
+28,Burnt Ivory King,204,Sword Master,8
+39,Company Captain Yorshka,51,Dark Sun Gwyndolin,8
+75,Fire Keeper,103,Irina of Carim,8
+161,Painting Woman,192,Slave Knight Gael,8
+175,Rosaria,190,Sirris of the Sunless Realms,8
+119,Leonhard,190,Sirris of the Sunless Realms,8
+10,Anri of Astora,99,High Lord Wolnir,8
+128,Lord of Cinder,133,Ludleth of Courland,8
+10,Anri of Astora,166,Pilgrim from Londor,8
+106,Iudex Gundyr,204,Sword Master,8
+149,Nameless King,204,Sword Master,8
+149,Nameless King,156,Old Dragonslayer,8
+92,Gwyn Lord of Cinder,196,Soul of Cinder,8
+29,Butcher,118,Laurentius of the Great Swamp,7
+38,Chaos Witch Quelaag,65,Eingyi,7
+173,Reah of Thorolund,220,Vince of Thorolund,7
+16,Bell Gargoyle,195,Solaire of Astora,7
+93,Gwynevere,159,Ornstein and Smough,7
+92,Gwyn Lord of Cinder,96,Hawkeye Gough,7
+153,Nito,204,Sword Master,7
+143,Mild Mannered Pate,211,The Last Giant,7
+43,Creighton the Wanderer,156,Old Dragonslayer,7
+2,Aldia,8,Ancient Dragon,7
+54,Darklurker,204,Sword Master,7
+2,Aldia,219,Vendrick,7
+78,Fume Knight,115,Knight Slayer Tsorig,7
+49,Curse-Rotted Greatwood,190,Sirris of the Sunless Realms,7
+10,Anri of Astora,58,Deacons of the Deep,7
+10,Anri of Astora,133,Ludleth of Courland,7
+93,Gwynevere,175,Rosaria,7
+191,Sister Friede,226,Yuria of Londor,7
+50,Dancer of the Boreal Valley,89,Greirat of the Undead Settlement,7
+110,Karla,171,Quelana of Izalith,7
+166,Pilgrim from Londor,226,Yuria of Londor,7
+166,Pilgrim from Londor,204,Sword Master,7
+99,High Lord Wolnir,224,Yhorm the Giant,7
+35,Champion Gravetender & Gravetender Greatwolf,204,Sword Master,7
+7,Anastacia of Astora,75,Fire Keeper,6
+67,Elizabeth,137,Manus,6
+14,Asylum Demon,194,Snuggly,6
+77,Four Kings,204,Sword Master,6
+79,Gaping Dragon,209,The Channeler,6
+92,Gwyn Lord of Cinder,95,Havel The Rock,6
+70,Executioner Chariot,159,Ornstein and Smough,6
+26,Blue Sentinel Targray,141,Merchant Hag Melentia,6
+76,Flexile Sentry,131,Lucatiel of Mirrah,6
+131,Lucatiel of Mirrah,212,The Rotten,6
+43,Creighton the Wanderer,175,Rosaria,6
+136,Manscorpion Tark,210,The Duke Dear Freja,6
+136,Manscorpion Tark,204,Sword Master,6
+151,Nashandra,214,Throne Watcher and Throne Defender,6
+0,Aava,4,Alsanna,6
+124,Lone Hunter Schmidt,212,The Rotten,6
+29,Butcher,212,The Rotten,6
+81,Giant Lord,204,Sword Master,6
+78,Fume Knight,218,Velstadt,6
+28,Burnt Ivory King,95,Havel The Rock,6
+39,Company Captain Yorshka,168,Pontiff Sulyvahn,6
+12,Ashen Knight Boyd,161,Painting Woman,6
+74,Filianore,92,Gwyn Lord of Cinder,6
+119,Leonhard,204,Sword Master,6
+121,Lion Knight Albert,130,Lothric,6
+50,Dancer of the Boreal Valley,221,Vordt of the Boreal Valley,6
+130,Lothric,154,Oceiros,6
+130,Lothric,149,Nameless King,6
+64,Dusk of Oolacile,84,Golden Crystal Golem,5
+64,Dusk of Oolacile,137,Manus,5
+163,Petrus of Thorolund,220,Vince of Thorolund,5
+152,Nico of Thorolund,163,Petrus of Thorolund,5
+57,Daughter of Chaos,195,Solaire of Astora,5
+75,Fire Keeper,114,Knight Lautrec,5
+56,Darkstalker Kaathe,77,Four Kings,5
+51,Dark Sun Gwyndolin,75,Fire Keeper,5
+23,Black Phantom,138,Marvelous Chester,5
+104,Iron Golem,105,Iron Knight Tarkus,5
+38,Chaos Witch Quelaag,191,Sister Friede,5
+92,Gwyn Lord of Cinder,207,The Black Knight,5
+92,Gwyn Lord of Cinder,159,Ornstein and Smough,5
+181,Seath the Scaleless,204,Sword Master,5
+95,Havel The Rock,205,Taurus Demon,5
+95,Havel The Rock,181,Seath the Scaleless,5
+204,Sword Master,207,The Black Knight,5
+32,Carhillion of the Fold,76,Flexile Sentry,5
+32,Carhillion of the Fold,78,Fume Knight,5
+131,Lucatiel of Mirrah,141,Merchant Hag Melentia,5
+73,Felkin the Outcast,178,Royal Sorcerer Navlaan,5
+2,Aldia,178,Royal Sorcerer Navlaan,5
+131,Lucatiel of Mirrah,204,Sword Master,5
+134,Magerold of Lanafir,188,Sir Alonne,5
+218,Velstadt,219,Vendrick,5
+12,Ashen Knight Boyd,210,The Duke Dear Freja,5
+29,Butcher,140,Melinda the Butcher,5
+126,Looking Glass Knight,204,Sword Master,5
+15,Belfry Gargoyle,129,Lost Sinner,5
+3,Aldrich,39,Company Captain Yorshka,5
+39,Company Captain Yorshka,92,Gwyn Lord of Cinder,5
+39,Company Captain Yorshka,191,Sister Friede,5
+83,Giant of the Undead Settlement,96,Hawkeye Gough,5
+103,Irina of Carim,130,Lothric,5
+55,Darkmoon Knightess,190,Sirris of the Sunless Realms,5
+189,Sir Vilhelm,191,Sister Friede,5
+189,Sir Vilhelm,226,Yuria of Londor,5
+40,Cornyx of the Great Swamp,155,Old Demon King,5
+103,Irina of Carim,122,Locust Preacher,5
+18,Big Hat Logan,158,Orbeck of Vinheim,5
+130,Lothric,158,Orbeck of Vinheim,5
+123,Londor Pale Shade,168,Pontiff Sulyvahn,5
+125,Longfinger Kirk,204,Sword Master,5
+128,Lord of Cinder,224,Yhorm the Giant,5
+128,Lord of Cinder,130,Lothric,5
+128,Lord of Cinder,196,Soul of Cinder,5
+204,Sword Master,224,Yhorm the Giant,5
+154,Oceiros,181,Seath the Scaleless,5
+64,Dusk of Oolacile,227,hydra,4
+46,Crestfallen Warrior,97,Hawkwood,4
+77,Four Kings,112,Kingseeker Frampt,4
+79,Gaping Dragon,195,Solaire of Astora,4
+24,Blacksmith Andre,97,Hawkwood,4
+160,Oswald of Carim,217,Velka the Goddess of Sin,4
+6,Alvina of the Darkroot Wood,183,Shiva of the East,4
+38,Chaos Witch Quelaag,57,Daughter of Chaos,4
+55,Darkmoon Knightess,93,Gwynevere,4
+51,Dark Sun Gwyndolin,204,Sword Master,4
+80,Giant Blacksmith,96,Hawkeye Gough,4
+96,Hawkeye Gough,137,Manus,4
+96,Hawkeye Gough,159,Ornstein and Smough,4
+29,Butcher,135,Maneater Mildred,4
+147,Moonlight Butterfly,222,Witch Beatrice,4
+47,Crossbreed Priscilla,111,King Jeremiah,4
+162,Paladin Leeroy,167,Pinwheel,4
+59,Demon Firesage,201,Stray Demon,4
+77,Four Kings,95,Havel The Rock,4
+92,Gwyn Lord of Cinder,153,Nito,4
+95,Havel The Rock,204,Sword Master,4
+25,Blacksmith Lenigrast,116,Laddersmith Gilligan,4
+174,Rosabeth of Melfia,204,Sword Master,4
+43,Creighton the Wanderer,141,Merchant Hag Melentia,4
+85,Grave Warden Agdayne,141,Merchant Hag Melentia,4
+116,Laddersmith Gilligan,178,Royal Sorcerer Navlaan,4
+13,Aslatiel of Mirrah,131,Lucatiel of Mirrah,4
+131,Lucatiel of Mirrah,193,Smelter Demon,4
+28,Burnt Ivory King,131,Lucatiel of Mirrah,4
+170,Pursuer,200,Straid of Olaphis,4
+63,DragonRider,134,Magerold of Lanafir,4
+108,Jester Thomas,134,Magerold of Lanafir,4
+42,Covetous Demon,134,Magerold of Lanafir,4
+98,Head of Vengarl,204,Sword Master,4
+2,Aldia,151,Nashandra,4
+61,Demon of Song,144,Milfanito,4
+139,Masterless Glencour,156,Old Dragonslayer,4
+12,Ashen Knight Boyd,126,Looking Glass Knight,4
+204,Sword Master,213,The Skeleton Lords,4
+204,Sword Master,210,The Duke Dear Freja,4
+86,Graverobber,95,Havel The Rock,4
+157,Old Iron King,188,Sir Alonne,4
+39,Company Captain Yorshka,93,Gwynevere,4
+39,Company Captain Yorshka,190,Sirris of the Sunless Realms,4
+39,Company Captain Yorshka,47,Crossbreed Priscilla,4
+72,Eygon of Carim,146,Moaning Knight,4
+49,Curse-Rotted Greatwood,97,Hawkwood,4
+97,Hawkwood,154,Oceiros,4
+99,High Lord Wolnir,115,Knight Slayer Tsorig,4
+105,Iron Knight Tarkus,115,Knight Slayer Tsorig,4
+110,Karla,184,Shrine Handmaid,4
+58,Deacons of the Deep,190,Sirris of the Sunless Realms,4
+10,Anri of Astora,225,Yoel of Londor,4
+40,Cornyx of the Great Swamp,88,Great Swamp Cuculus,4
+40,Cornyx of the Great Swamp,171,Quelana of Izalith,4
+74,Filianore,94,Halflight,4
+94,Halflight,109,Judicator Argo,4
+56,Darkstalker Kaathe,226,Yuria of Londor,4
+101,Horace the Hushed,226,Yuria of Londor,4
+196,Soul of Cinder,226,Yuria of Londor,4
+55,Darkmoon Knightess,226,Yuria of Londor,4
+150,Nameless Usurper,226,Yuria of Londor,4
+11,Archdeacon McDonnell,168,Pontiff Sulyvahn,4
+41,Corvian Settler,191,Sister Friede,4
+69,Emma,221,Vordt of the Boreal Valley,4
+75,Fire Keeper,133,Ludleth of Courland,4
+75,Fire Keeper,204,Sword Master,4
+5,Alva,89,Greirat of the Undead Settlement,4
+89,Greirat of the Undead Settlement,155,Old Demon King,4
+89,Greirat of the Undead Settlement,204,Sword Master,4
+48,Crystal Sage,158,Orbeck of Vinheim,4
+191,Sister Friede,192,Slave Knight Gael,4
+1,Abyss Watchers,20,Black Hand Gotthard,4
+88,Great Swamp Cuculus,155,Old Demon King,4
+43,Creighton the Wanderer,123,Londor Pale Shade,4
+1,Abyss Watchers,123,Londor Pale Shade,4
+3,Aldrich,128,Lord of Cinder,4
+168,Pontiff Sulyvahn,221,Vordt of the Boreal Valley,4
+3,Aldrich,159,Ornstein and Smough,4
+94,Halflight,204,Sword Master,4
+90,Griggs of Vinheim,204,Sword Master,3
+38,Chaos Witch Quelaag,171,Quelana of Izalith,3
+30,Capra Demon,173,Reah of Thorolund,3
+114,Knight Lautrec,173,Reah of Thorolund,3
+18,Big Hat Logan,46,Crestfallen Warrior,3
+45,Crestfallen Saulden,46,Crestfallen Warrior,3
+59,Demon Firesage,195,Solaire of Astora,3
+195,Solaire of Astora,204,Sword Master,3
+24,Blacksmith Andre,184,Shrine Handmaid,3
+62,Domhnall of Zena,92,Gwyn Lord of Cinder,3
+62,Domhnall of Zena,204,Sword Master,3
+57,Daughter of Chaos,75,Fire Keeper,3
+56,Darkstalker Kaathe,102,Ingward,3
+51,Dark Sun Gwyndolin,159,Ornstein and Smough,3
+84,Golden Crystal Golem,185,Sieglinde of Catarina,3
+19,Black Dragon Kalameet,138,Marvelous Chester,3
+153,Nito,162,Paladin Leeroy,3
+14,Asylum Demon,204,Sword Master,3
+77,Four Kings,114,Knight Lautrec,3
+79,Gaping Dragon,204,Sword Master,3
+201,Stray Demon,204,Sword Master,3
+29,Butcher,82,Giant Rat,3
+19,Black Dragon Kalameet,95,Havel The Rock,3
+19,Black Dragon Kalameet,27,Bowman Guthry,3
+145,Milibeth,202,Strowen,3
+68,Emerald Herald,178,Royal Sorcerer Navlaan,3
+116,Laddersmith Gilligan,148,Mytha,3
+141,Merchant Hag Melentia,216,Titchy Gren,3
+42,Covetous Demon,141,Merchant Hag Melentia,3
+2,Aldia,131,Lucatiel of Mirrah,3
+76,Flexile Sentry,200,Straid of Olaphis,3
+200,Straid of Olaphis,204,Sword Master,3
+172,Rat King,176,Royal Rat Authority,3
+31,Captain Drummond,81,Giant Lord,3
+37,Chancellor Wellager,219,Vendrick,3
+92,Gwyn Lord of Cinder,219,Vendrick,3
+8,Ancient Dragon,12,Ashen Knight Boyd,3
+8,Ancient Dragon,204,Sword Master,3
+8,Ancient Dragon,188,Sir Alonne,3
+15,Belfry Gargoyle,139,Masterless Glencour,3
+63,DragonRider,139,Masterless Glencour,3
+0,Aava,139,Masterless Glencour,3
+120,Licia of Lindeldt,150,Nameless Usurper,3
+129,Lost Sinner,204,Sword Master,3
+165,Pilgrim Bellclaire,179,Ruin Sentinel,3
+179,Ruin Sentinel,204,Sword Master,3
+2,Aldia,91,Guardian Dragon,3
+52,Darkdiver Grandahl,54,Darklurker,3
+98,Head of Vengarl,214,Throne Watcher and Throne Defender,3
+66,Elana,151,Nashandra,3
+95,Havel The Rock,188,Sir Alonne,3
+48,Crystal Sage,72,Eygon of Carim,3
+1,Abyss Watchers,72,Eygon of Carim,3
+72,Eygon of Carim,156,Old Dragonslayer,3
+48,Crystal Sage,97,Hawkwood,3
+97,Hawkwood,204,Sword Master,3
+161,Painting Woman,191,Sister Friede,3
+184,Shrine Handmaid,191,Sister Friede,3
+21,Black Hand Kamui,184,Shrine Handmaid,3
+168,Pontiff Sulyvahn,190,Sirris of the Sunless Realms,3
+10,Anri of Astora,55,Darkmoon Knightess,3
+74,Filianore,109,Judicator Argo,3
+53,Darkeater Midir,74,Filianore,3
+94,Halflight,117,Lapp,3
+53,Darkeater Midir,146,Moaning Knight,3
+164,Pickle Pee,194,Snuggly,3
+125,Longfinger Kirk,175,Rosaria,3
+74,Filianore,192,Slave Knight Gael,3
+182,Shira,192,Slave Knight Gael,3
+217,Velka the Goddess of Sin,226,Yuria of Londor,3
+110,Karla,226,Yuria of Londor,3
+168,Pontiff Sulyvahn,226,Yuria of Londor,3
+204,Sword Master,226,Yuria of Londor,3
+50,Dancer of the Boreal Valley,69,Emma,3
+75,Fire Keeper,130,Lothric,3
+89,Greirat of the Undead Settlement,224,Yhorm the Giant,3
+58,Deacons of the Deep,101,Horace the Hushed,3
+3,Aldrich,101,Horace the Hushed,3
+93,Gwynevere,119,Leonhard,3
+119,Leonhard,130,Lothric,3
+39,Company Captain Yorshka,182,Shira,3
+187,Siegward of Catarina,204,Sword Master,3
+12,Ashen Knight Boyd,191,Sister Friede,3
+20,Black Hand Gotthard,168,Pontiff Sulyvahn,3
+20,Black Hand Gotthard,130,Lothric,3
+69,Emma,121,Lion Knight Albert,3
+121,Lion Knight Albert,221,Vordt of the Boreal Valley,3
+50,Dancer of the Boreal Valley,121,Lion Knight Albert,3
+123,Londor Pale Shade,225,Yoel of Londor,3
+183,Shiva of the East,204,Sword Master,3
+204,Sword Master,221,Vordt of the Boreal Valley,3
+111,King Jeremiah,223,Yellowfinger Heysel,3
+1,Abyss Watchers,223,Yellowfinger Heysel,3
+106,Iudex Gundyr,154,Oceiros,3
+130,Lothric,221,Vordt of the Boreal Valley,3
+110,Karla,155,Old Demon King,3
+3,Aldrich,153,Nito,3
+3,Aldrich,130,Lothric,3
+50,Dancer of the Boreal Valley,130,Lothric,3
+36,Champion Gundyr,154,Oceiros,3
+60,Demon in Pain & Demon From Below,117,Lapp,3
+18,Big Hat Logan,204,Sword Master,2
+77,Four Kings,102,Ingward,2
+171,Quelana of Izalith,191,Sister Friede,2
+114,Knight Lautrec,163,Petrus of Thorolund,2
+153,Nito,173,Reah of Thorolund,2
+173,Reah of Thorolund,181,Seath the Scaleless,2
+39,Company Captain Yorshka,173,Reah of Thorolund,2
+46,Crestfallen Warrior,112,Kingseeker Frampt,2
+7,Anastacia of Astora,112,Kingseeker Frampt,2
+112,Kingseeker Frampt,181,Seath the Scaleless,2
+112,Kingseeker Frampt,159,Ornstein and Smough,2
+195,Solaire of Astora,205,Taurus Demon,2
+51,Dark Sun Gwyndolin,195,Solaire of Astora,2
+1,Abyss Watchers,24,Blacksmith Andre,2
+24,Blacksmith Andre,204,Sword Master,2
+79,Gaping Dragon,114,Knight Lautrec,2
+114,Knight Lautrec,159,Ornstein and Smough,2
+6,Alvina of the Darkroot Wood,24,Blacksmith Andre,2
+160,Oswald of Carim,183,Shiva of the East,2
+51,Dark Sun Gwyndolin,62,Domhnall of Zena,2
+62,Domhnall of Zena,104,Iron Golem,2
+51,Dark Sun Gwyndolin,156,Old Dragonslayer,2
+80,Giant Blacksmith,156,Old Dragonslayer,2
+47,Crossbreed Priscilla,204,Sword Master,2
+44,Crestfallen Merchant,138,Marvelous Chester,2
+92,Gwyn Lord of Cinder,127,Lord Blade Ciaran,2
+127,Lord Blade Ciaran,128,Lord of Cinder,2
+113,Knight Kirk,206,The Bed of Chaos,2
+30,Capra Demon,204,Sword Master,2
+33,Ceaseless Discharge,38,Chaos Witch Quelaag,2
+38,Chaos Witch Quelaag,204,Sword Master,2
+77,Four Kings,147,Moonlight Butterfly,2
+87,Great Grey Wolf Sif,227,hydra,2
+77,Four Kings,92,Gwyn Lord of Cinder,2
+55,Darkmoon Knightess,92,Gwyn Lord of Cinder,2
+14,Asylum Demon,104,Iron Golem,2
+159,Ornstein and Smough,204,Sword Master,2
+38,Chaos Witch Quelaag,159,Ornstein and Smough,2
+153,Nito,181,Seath the Scaleless,2
+128,Lord of Cinder,181,Seath the Scaleless,2
+23,Black Phantom,162,Paladin Leeroy,2
+23,Black Phantom,38,Chaos Witch Quelaag,2
+95,Havel The Rock,147,Moonlight Butterfly,2
+14,Asylum Demon,207,The Black Knight,2
+24,Blacksmith Andre,215,Titanite Demon,2
+19,Black Dragon Kalameet,64,Dusk of Oolacile,2
+18,Big Hat Logan,19,Black Dragon Kalameet,2
+137,Manus,138,Marvelous Chester,2
+137,Manus,151,Nashandra,2
+4,Alsanna,137,Manus,2
+66,Elana,137,Manus,2
+6,Alvina of the Darkroot Wood,137,Manus,2
+95,Havel The Rock,137,Manus,2
+68,Emerald Herald,151,Nashandra,2
+68,Emerald Herald,219,Vendrick,2
+8,Ancient Dragon,68,Emerald Herald,2
+25,Blacksmith Lenigrast,141,Merchant Hag Melentia,2
+45,Crestfallen Saulden,174,Rosabeth of Melfia,2
+25,Blacksmith Lenigrast,32,Carhillion of the Fold,2
+32,Carhillion of the Fold,157,Old Iron King,2
+120,Licia of Lindeldt,203,Sweet Shalquoir,2
+12,Ashen Knight Boyd,203,Sweet Shalquoir,2
+23,Black Phantom,131,Lucatiel of Mirrah,2
+15,Belfry Gargoyle,200,Straid of Olaphis,2
+179,Ruin Sentinel,200,Straid of Olaphis,2
+148,Mytha,200,Straid of Olaphis,2
+193,Smelter Demon,200,Straid of Olaphis,2
+54,Darklurker,200,Straid of Olaphis,2
+70,Executioner Chariot,200,Straid of Olaphis,2
+17,Bell Keeper,23,Black Phantom,2
+43,Creighton the Wanderer,213,The Skeleton Lords,2
+39,Company Captain Yorshka,43,Creighton the Wanderer,2
+85,Grave Warden Agdayne,218,Velstadt,2
+70,Executioner Chariot,216,Titchy Gren,2
+172,Rat King,177,Royal Rat Vanguard,2
+98,Head of Vengarl,210,The Duke Dear Freja,2
+37,Chancellor Wellager,81,Giant Lord,2
+151,Nashandra,219,Vendrick,2
+8,Ancient Dragon,151,Nashandra,2
+63,DragonRider,151,Nashandra,2
+2,Aldia,144,Milfanito,2
+144,Milfanito,191,Sister Friede,2
+8,Ancient Dragon,219,Vendrick,2
+8,Ancient Dragon,29,Butcher,2
+8,Ancient Dragon,140,Melinda the Butcher,2
+8,Ancient Dragon,193,Smelter Demon,2
+139,Masterless Glencour,204,Sword Master,2
+12,Ashen Knight Boyd,204,Sword Master,2
+142,Merciless Roenna,213,The Skeleton Lords,2
+27,Bowman Guthry,172,Rat King,2
+2,Aldia,213,The Skeleton Lords,2
+15,Belfry Gargoyle,42,Covetous Demon,2
+179,Ruin Sentinel,197,Steady Hand McDuff,2
+82,Giant Rat,176,Royal Rat Authority,2
+153,Nito,212,The Rotten,2
+204,Sword Master,212,The Rotten,2
+63,DragonRider,156,Old Dragonslayer,2
+204,Sword Master,218,Velstadt,2
+54,Darklurker,95,Havel The Rock,2
+15,Belfry Gargoyle,54,Darklurker,2
+54,Darklurker,214,Throne Watcher and Throne Defender,2
+63,DragonRider,124,Lone Hunter Schmidt,2
+95,Havel The Rock,214,Throne Watcher and Throne Defender,2
+78,Fume Knight,193,Smelter Demon,2
+28,Burnt Ivory King,78,Fume Knight,2
+28,Burnt Ivory King,188,Sir Alonne,2
+28,Burnt Ivory King,92,Gwyn Lord of Cinder,2
+0,Aava,204,Sword Master,2
+132,Lud and Zallen,193,Smelter Demon,2
+0,Aava,132,Lud and Zallen,2
+72,Eygon of Carim,162,Paladin Leeroy,2
+72,Eygon of Carim,75,Fire Keeper,2
+72,Eygon of Carim,106,Iudex Gundyr,2
+72,Eygon of Carim,187,Siegward of Catarina,2
+3,Aldrich,97,Hawkwood,2
+97,Hawkwood,149,Nameless King,2
+115,Knight Slayer Tsorig,207,The Black Knight,2
+115,Knight Slayer Tsorig,157,Old Iron King,2
+115,Knight Slayer Tsorig,155,Old Demon King,2
+41,Corvian Settler,161,Painting Woman,2
+75,Fire Keeper,184,Shrine Handmaid,2
+130,Lothric,184,Shrine Handmaid,2
+184,Shrine Handmaid,217,Velka the Goddess of Sin,2
+10,Anri of Astora,190,Sirris of the Sunless Realms,2
+106,Iudex Gundyr,190,Sirris of the Sunless Realms,2
+1,Abyss Watchers,190,Sirris of the Sunless Realms,2
+101,Horace the Hushed,190,Sirris of the Sunless Realms,2
+24,Blacksmith Andre,225,Yoel of Londor,2
+75,Fire Keeper,225,Yoel of Londor,2
+41,Corvian Settler,189,Sir Vilhelm,2
+74,Filianore,199,Stone-humped Hag,2
+117,Lapp,199,Stone-humped Hag,2
+10,Anri of Astora,123,Londor Pale Shade,2
+40,Cornyx of the Great Swamp,110,Karla,2
+40,Cornyx of the Great Swamp,204,Sword Master,2
+49,Curse-Rotted Greatwood,100,Holy Knight Hodrick,2
+100,Holy Knight Hodrick,184,Shrine Handmaid,2
+109,Judicator Argo,214,Throne Watcher and Throne Defender,2
+117,Lapp,130,Lothric,2
+168,Pontiff Sulyvahn,175,Rosaria,2
+3,Aldrich,175,Rosaria,2
+50,Dancer of the Boreal Valley,175,Rosaria,2
+70,Executioner Chariot,192,Slave Knight Gael,2
+3,Aldrich,11,Archdeacon McDonnell,2
+3,Aldrich,89,Greirat of the Undead Settlement,2
+89,Greirat of the Undead Settlement,169,Prowling Magus and Congregation,2
+89,Greirat of the Undead Settlement,156,Old Dragonslayer,2
+70,Executioner Chariot,101,Horace the Hushed,2
+107,Jailer,110,Karla,2
+24,Blacksmith Andre,110,Karla,2
+119,Leonhard,184,Shrine Handmaid,2
+3,Aldrich,119,Leonhard,2
+119,Leonhard,133,Ludleth of Courland,2
+119,Leonhard,223,Yellowfinger Heysel,2
+72,Eygon of Carim,122,Locust Preacher,2
+75,Fire Keeper,122,Locust Preacher,2
+122,Locust Preacher,158,Orbeck of Vinheim,2
+122,Locust Preacher,168,Pontiff Sulyvahn,2
+186,Siegmeyer of Catarina,187,Siegward of Catarina,2
+175,Rosaria,187,Siegward of Catarina,2
+128,Lord of Cinder,187,Siegward of Catarina,2
+149,Nameless King,191,Sister Friede,2
+159,Ornstein and Smough,191,Sister Friede,2
+191,Sister Friede,204,Sword Master,2
+3,Aldrich,20,Black Hand Gotthard,2
+20,Black Hand Gotthard,21,Black Hand Kamui,2
+21,Black Hand Kamui,121,Lion Knight Albert,2
+123,Londor Pale Shade,196,Soul of Cinder,2
+123,Londor Pale Shade,190,Sirris of the Sunless Realms,2
+39,Company Captain Yorshka,123,Londor Pale Shade,2
+55,Darkmoon Knightess,166,Pilgrim from Londor,2
+39,Company Captain Yorshka,166,Pilgrim from Londor,2
+48,Crystal Sage,223,Yellowfinger Heysel,2
+190,Sirris of the Sunless Realms,223,Yellowfinger Heysel,2
+75,Fire Keeper,106,Iudex Gundyr,2
+48,Crystal Sage,103,Irina of Carim,2
+1,Abyss Watchers,48,Crystal Sage,2
+58,Deacons of the Deep,168,Pontiff Sulyvahn,2
+99,High Lord Wolnir,154,Oceiros,2
+12,Ashen Knight Boyd,99,High Lord Wolnir,2
+155,Old Demon King,206,The Bed of Chaos,2
+168,Pontiff Sulyvahn,224,Yhorm the Giant,2
+51,Dark Sun Gwyndolin,168,Pontiff Sulyvahn,2
+196,Soul of Cinder,224,Yhorm the Giant,2
+64,Dusk of Oolacile,224,Yhorm the Giant,2
+3,Aldrich,53,Darkeater Midir,2
+3,Aldrich,204,Sword Master,2
+3,Aldrich,47,Crossbreed Priscilla,2
+50,Dancer of the Boreal Valley,127,Lord Blade Ciaran,2
+12,Ashen Knight Boyd,36,Champion Gundyr,2
+36,Champion Gundyr,50,Dancer of the Boreal Valley,2
+130,Lothric,155,Old Demon King,2
+51,Dark Sun Gwyndolin,130,Lothric,2
+9,Ancient Wyvern,149,Nameless King,2
+1,Abyss Watchers,35,Champion Gravetender & Gravetender Greatwolf,2
+60,Demon in Pain & Demon From Below,192,Slave Knight Gael,2
+60,Demon in Pain & Demon From Below,204,Sword Master,2
+94,Halflight,217,Velka the Goddess of Sin,2
+53,Darkeater Midir,156,Old Dragonslayer,2

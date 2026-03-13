@@ -1,0 +1,229 @@
+id,label,games,type,location,alias
+0,Aava,DS2,Boss,Grand Cathedral,
+1,Abyss Watchers,DS3,Boss,Farron Keep,Watchers
+2,Aldia,DS2,Boss,"Undead Crypt, Dragon Shrine, Throne Of Want",
+3,Aldrich,DS3,Boss,Anor Londo,
+4,Alsanna,DS2,NPC,Grand Cathedral,
+5,Alva,DS3,NPC,Irithyll of the Boreal Valley,
+6,Alvina of the Darkroot Wood,DS1,NPC,Darkroot Garden,Alvina
+7,Anastacia of Astora,DS1,NPC,Firelink Shrine,Anastacia
+8,Ancient Dragon,DS2,NPC,Dragon Shrine,
+9,Ancient Wyvern,DS3,Boss,Archdragon Peak,
+10,Anri of Astora,DS3,NPC,Road of Sacrifices,Anri
+11,Archdeacon McDonnell,DS3,NPC,Anor Londo,Archdeacon|McDonnell
+12,Ashen Knight Boyd,DS2,NPC,Brightstone Cove Tseldora,Ashen|Boyd
+13,Aslatiel of Mirrah,DS2,NPC,Aldia's Keep,Aslatiel
+14,Asylum Demon,DS1,Boss,Health,Asylum
+15,Belfry Gargoyle,DS2,Boss,Belfry Luna,Belfry
+16,Bell Gargoyle,DS1,Boss,Undead Parish,
+17,Bell Keeper,DS2,NPC,Belfry Luna,
+18,Big Hat Logan,DS1,NPC,"Sen's Fortress, Firelink Shrine, The Duke's Archives",Logan
+19,Black Dragon Kalameet,DS1,Boss,Royal Woods,Kalameet
+20,Black Hand Gotthard,DS3,NPC,??,Gotthard
+21,Black Hand Kamui,DS3,NPC,Grand Archives,Kamui
+22,Black Hydra,DS1,Boss,Ash Lake,
+23,Black Phantom,DS1,Boss,Multiple,
+24,Blacksmith Andre,DS1|DS3,NPC,Firelink Shrine,Andre
+25,Blacksmith Lenigrast,DS2,NPC,Majula,Lenigrast
+26,Blue Sentinel Targray,DS2,NPC,Cathedral of Blue,Targray
+27,Bowman Guthry,DS2,NPC,Doors of Pharros,Bowman|Guthry
+28,Burnt Ivory King,DS2,Boss,Old Chaos,
+29,Butcher,DS1,Boss,The Depths,
+30,Capra Demon,DS1,Boss,Undead Burg,Capra
+31,Captain Drummond,DS2,NPC,Memory of Vammar,Drummond
+32,Carhillion of the Fold,DS2,NPC,No-man's Wharf,Carhillion
+33,Ceaseless Discharge,DS1,Boss,Demon Ruins,Ceaseless|Discharge
+34,Centipede Demon,DS1,Boss,Demon Ruins,
+35,Champion Gravetender & Gravetender Greatwolf,DS3,Boss,Painted World of Ariandel,Greatwolf
+36,Champion Gundyr,DS3,Boss,Untended Graves,
+37,Chancellor Wellager,DS2,NPC,Drangleic Castle,Chancellor|Wellager
+38,Chaos Witch Quelaag,DS1,Boss,Blighttown,Quelaag
+39,Company Captain Yorshka,DS3,NPC,Anor Londo,Company|Yorshka
+40,Cornyx of the Great Swamp,DS3,NPC,Undead Settlement,Cornyx
+41,Corvian Settler,DS3,NPC,Painted World of Ariandel,Corvian|Settler
+42,Covetous Demon,DS2,Boss,Earthen Peak,Covetous
+43,Creighton the Wanderer,DS2|DS3,NPC,Huntsman's Copse,Creighton
+44,Crestfallen Merchant,DS1,NPC,Sen's Fortress,
+45,Crestfallen Saulden,DS2,NPC,Majula,Saulden
+46,Crestfallen Warrior,DS1,NPC,"Firelink Shrine, New Londo Ruins",
+47,Crossbreed Priscilla,DS1,NPC,Painted World of Ariamis,Crossbreed|Priscilla
+48,Crystal Sage,DS3,Boss,Road of Sacrifices,
+49,Curse-Rotted Greatwood,DS3,Boss,Undead Settlement,Curse-Rotted|Greatwood
+50,Dancer of the Boreal Valley,DS3,Boss,High Wall of Lothric,Dancer
+51,Dark Sun Gwyndolin,DS1,NPC,Anor Londo,Gwyndolin
+52,Darkdiver Grandahl,DS2,NPC,Shaded Woods,Darkdiver|Grandahl
+53,Darkeater Midir,DS3,Boss,The Ringed City,Darkeater|Midir
+54,Darklurker,DS2,Boss,Dark Chasm of Old,
+55,Darkmoon Knightess,DS1,NPC,Anor Londo,Darkmoon|Knightess
+56,Darkstalker Kaathe,DS1,NPC,Abyss,Darkstalker|Kaathe
+57,Daughter of Chaos,DS1,NPC,Quelaag's Domain,
+58,Deacons of the Deep,DS3,Boss,Cathedral of the Deep,Deacons
+59,Demon Firesage,DS1,Boss,Demon Ruins,Firesage
+60,Demon in Pain & Demon From Below,DS3,Boss,Dreg Heap,
+61,Demon of Song,DS2,Boss,Shrine of Amana,
+62,Domhnall of Zena,DS1,NPC,"Depths, Firelink Shrine",Domhnall
+63,DragonRider,DS2,Boss,Heide's Tower of Flame,
+64,Dusk of Oolacile,DS1,NPC,Darkroot Basin,Dusk
+65,Eingyi,DS1,NPC,Quelaag's Domain,
+66,Elana,DS2,Boss,Majula,
+67,Elizabeth,DS1,NPC,Oolacile Sanctuary,
+68,Emerald Herald,DS2,NPC,Majula,
+69,Emma,DS3,NPC,High Wall of Lothric Castle,
+70,Executioner Chariot,DS2,Boss,Undead Purgatory,Executioner
+71,Executioners Chariot,DS2,Boss,"This boss is encountered in theHuntsman's Copseacross a dilapidatedwooden bridgeand behind a dark spirit NPC., An optional version of this enemy with no carriage can be found inDrangleic Castlein the second room after activating the golem that moves the elevator. Drops reduced souls and theGower's Ring of Protectionbut no Boss Soul.",Executioners
+72,Eygon of Carim,DS3,NPC,Undead Settlement,Eygon
+73,Felkin the Outcast,DS2,NPC,Huntsman's Copse,Felkin
+74,Filianore,DS3,NPC,The Ringed City,
+75,Fire Keeper,DS3,NPC,Firelink Shrine,
+76,Flexile Sentry,DS2,Boss,The Lost Bastille,Flexile|Sentry
+77,Four Kings,DS1,Boss,Abyss,
+78,Fume Knight,DS2,Boss,Brume Tower,Fume
+79,Gaping Dragon,DS1,Boss,Depths,Gaping
+80,Giant Blacksmith,DS1,NPC,Anor Londo,
+81,Giant Lord,DS2,Boss,Memory of Jeigh,
+82,Giant Rat,DS1,Boss,Depths,
+83,Giant of the Undead Settlement,DS3,NPC,"Undead Settlement, tower",
+84,Golden Crystal Golem,DS1,Boss,"Darkroot Basin, ,, Crystal Cave, and, The Duke's Archives",
+85,Grave Warden Agdayne,DS2,NPC,Undead Crypt,Agdayne
+86,Graverobber,DS2,Boss,Cave of the Dead,
+87,Great Grey Wolf Sif,DS1,Boss,Darkroot Garden,
+88,Great Swamp Cuculus,DS3,NPC,Smouldering Lake,Cuculus
+89,Greirat of the Undead Settlement,DS3,NPC,High Wall of Lothric,Greirat
+90,Griggs of Vinheim,DS1,NPC,"Undead Burg, Firelink Shrine, Sen's Fortress",Griggs
+91,Guardian Dragon,DS2,Boss,Aldia's Keep,
+92,Gwyn Lord of Cinder,DS1,Boss,Kiln of the First Flame,Gwyn
+93,Gwynevere,DS1,NPC,Anor Londo,
+94,Halflight,DS3,Boss,The Ringed City,
+95,Havel The Rock,DS1,Boss,Undead Burg,Havel
+96,Hawkeye Gough,DS1,NPC,Oolacile Township,Hawkeye|Gough
+97,Hawkwood,DS3,NPC,Firelink Shrine,
+98,Head of Vengarl,DS2,NPC,Shaded Woods,
+99,High Lord Wolnir,DS3,Boss,Catacombs of Carthus,Wolnir
+100,Holy Knight Hodrick,DS3,NPC,Undead Settlement,Hodrick
+101,Horace the Hushed,DS3,NPC,Road of Sacrifices,Horace
+102,Ingward,DS1,NPC,New Londo Ruins,
+103,Irina of Carim,DS3,NPC,Undead Settlement,Irina
+104,Iron Golem,DS1,Boss,Sen's Fortress,
+105,Iron Knight Tarkus,DS1,NPC,Sen's Fortress,Tarkus
+106,Iudex Gundyr,DS3,Boss,Cemetery of Ash,Iudex
+107,Jailer,DS3,NPC,Irithyll Dungeon,
+108,Jester Thomas,DS2,NPC,Earthen Peak,Jester|Thomas
+109,Judicator Argo,DS3,NPC,The Ringed City,Judicator|Argo
+110,Karla,DS3,NPC,"Irithyll Dungeon, Firelink Shrine",
+111,King Jeremiah,DS1,NPC,Painted World of Ariamis,Jeremiah
+112,Kingseeker Frampt,DS1,NPC,Firelink Shrine,Kingseeker|Frampt
+113,Knight Kirk,DS1,NPC,"Depths, Demon Ruins, Lost Izalith",
+114,Knight Lautrec,DS1,NPC,"Undead Parish, Firelink Shrine, Anor Londo",Lautrec
+115,Knight Slayer Tsorig,DS3,NPC,"Catacombs of Carthus, Smouldering Lake",Tsorig
+116,Laddersmith Gilligan,DS2,NPC,Earthen Peak,Laddersmith|Gilligan
+117,Lapp,DS3,NPC,The Ringed City,
+118,Laurentius of the Great Swamp,DS1,NPC,"Depths, Firelink Shrine, Blighttown",Laurentius
+119,Leonhard,DS3,NPC,Firelink Shrine,
+120,Licia of Lindeldt,DS2,NPC,Heide's Tower of Flame,Licia
+121,Lion Knight Albert,DS3,NPC,"High Wall of Lothric, ,, Grand Archives",Albert
+122,Locust Preacher,DS3,NPC,The Ringed City,Locust|Preacher
+123,Londor Pale Shade,DS3,NPC,Varies,
+124,Lone Hunter Schmidt,DS2,NPC,Black Gulch,Lone|Schmidt
+125,Longfinger Kirk,DS3,NPC,Cathedral of the Deep,Longfinger
+126,Looking Glass Knight,DS2,Boss,"Shaded Woods, Drangleic Castle",
+127,Lord Blade Ciaran,DS1,NPC,Oolacile Township,Ciaran
+128,Lord of Cinder,DS3,NPC,?,
+129,Lost Sinner,DS2,Boss,Sinners' Rise,Sinner
+130,Lothric,DS3,Boss,Grand Archives,
+131,Lucatiel of Mirrah,DS2,NPC,No-Man's Wharf,Lucatiel
+132,Lud and Zallen,DS2,Boss,Frigid Outskirts,Zallen
+133,Ludleth of Courland,DS3,NPC,Firelink Shrine,Ludleth
+134,Magerold of Lanafir,DS2,NPC,Iron Keep,Magerold
+135,Maneater Mildred,DS1,NPC,Blighttown,Maneater|Mildred
+136,Manscorpion Tark,DS2,NPC,Shaded Woods,Manscorpion|Tark
+137,Manus,DS1,Boss,Chasm of the Abyss,
+138,Marvelous Chester,DS1,NPC,"Royal Wood, Oolacile Township",Marvelous|Chester
+139,Masterless Glencour,DS2,NPC,Heide's Tower of Flame,Glencour
+140,Melinda the Butcher,DS2,NPC,The Gutter,Melinda
+141,Merchant Hag Melentia,DS2,NPC,Forest of Fallen Giants,Melentia
+142,Merciless Roenna,DS2,NPC,Huntsman's Copse,Roenna
+143,Mild Mannered Pate,DS2,NPC,Forest of Fallen Giants,Pate
+144,Milfanito,DS2,NPC,Shrine of Amana,
+145,Milibeth,DS2,NPC,Things Betwixt,
+146,Moaning Knight,DS3,NPC,The Ringed City,
+147,Moonlight Butterfly,DS1,Boss,Health,
+148,Mytha,DS2,Boss,Earthen Peak,
+149,Nameless King,DS3,Boss,Archdragon Peak,
+150,Nameless Usurper,DS2,NPC,Drangleic Castle,Usurper
+151,Nashandra,DS2,NPC,Drangleic Castle,
+152,Nico of Thorolund,DS1,NPC,"Firelink Shrine, Tomb of the Giants",Nico
+153,Nito,DS1,Boss,The Catacombs,
+154,Oceiros,DS3,Boss,Consumed King's Garden,
+155,Old Demon King,DS3,Boss,Smouldering Lake,
+156,Old Dragonslayer,DS2,Boss,Heide's Tower of Flame,Dragonslayer
+157,Old Iron King,DS2,Boss,"Iron Keep, Shrine of Winter",
+158,Orbeck of Vinheim,DS3,NPC,Road of Sacrifices,Orbeck
+159,Ornstein and Smough,DS1,Boss,Anor Londo,Ornstein|Smough
+160,Oswald of Carim,DS1,NPC,Undead Parish,Oswald
+161,Painting Woman,DS3,NPC,Painted World of Ariandel,
+162,Paladin Leeroy,DS1,NPC,The Catacombs,Leeroy
+163,Petrus of Thorolund,DS1,NPC,Firelink Shrine,Petrus
+164,Pickle Pee,DS3,NPC,Firelink Shrine,
+165,Pilgrim Bellclaire,DS2,NPC,Lost Bastille,Bellclaire
+166,Pilgrim from Londor,DS3,NPC,Irithyll of the Boreal Valley,
+167,Pinwheel,DS1,Boss,The Catacombs,
+168,Pontiff Sulyvahn,DS3,Boss,Irithyll of the Boreal Valley,Pontiff|Sulyvahn
+169,Prowling Magus and Congregation,DS2,Boss,Brightstone Cove Tseldora,Prowling|Congregation
+170,Pursuer,DS2,Boss,Forest of Fallen Giants,
+171,Quelana of Izalith,DS1,NPC,Blighttown,Quelana
+172,Rat King,DS2,NPC,Grave of Saints,
+173,Reah of Thorolund,DS1,NPC,"Firelink Shrine, Tomb of the Giants, Undead Parish, The Duke's Archives",Reah
+174,Rosabeth of Melfia,DS2,NPC,Majula,Rosabeth
+175,Rosaria,DS3,NPC,Cathedral of the Deep,
+176,Royal Rat Authority,DS2,Boss,Doors of Pharros,
+177,Royal Rat Vanguard,DS2,Boss,Grave of Saints,
+178,Royal Sorcerer Navlaan,DS2,NPC,Aldia's Keep,Navlaan
+179,Ruin Sentinel,DS2,Boss,The Lost Bastille,Sentinel
+180,Scorpioness Najka,DS2,Boss,Shaded Woods,Scorpioness|Najka
+181,Seath the Scaleless,DS1,Boss,"Duke's Archive, and the, Crystal Cave",Seath
+182,Shira,DS3,NPC,"The Ringed City, Fillianore's Rest",
+183,Shiva of the East,DS1,NPC,Darkroot Garden,Shiva
+184,Shrine Handmaid,DS3,NPC,Firelink Shrine,Handmaid
+185,Sieglinde of Catarina,DS1,NPC,"The Duke's Archives, Firelink Shrine, Ash Lake",Sieglinde
+186,Siegmeyer of Catarina,DS1,NPC,"Sen's Fortress, Anor Londo, Firelink Shrine, Blighttown, Lost Izalith",Siegmeyer
+187,Siegward of Catarina,DS3,NPC,Undead Settlement,Siegward
+188,Sir Alonne,DS2,Boss,Memory of the Old Iron King,Alonne
+189,Sir Vilhelm,DS3,NPC,Painted World of Ariandel,Vilhelm
+190,Sirris of the Sunless Realms,DS3,NPC,Firelink Shrine,Sirris|Realms
+191,Sister Friede,DS3,NPC,The Ringed City,Sister|Friede
+192,Slave Knight Gael,DS3,Boss,Filianore's Rest,Gael
+193,Smelter Demon,DS2,Boss,Iron Passage,Smelter
+194,Snuggly,DS1,NPC,Northern Undead Asylum,
+195,Solaire of Astora,DS1,NPC,"Undead Parish, Anor Londo, Lost Izalith",Solaire
+196,Soul of Cinder,DS3,Boss,Kiln of the First Flame,
+197,Steady Hand McDuff,DS2,NPC,Lost Bastille,Steady|McDuff
+198,Stone Trader Chloanne,DS2,NPC,Harvest Valley,Chloanne
+199,Stone-humped Hag,DS3,NPC,The Dreg Heap,Stone-humped
+200,Straid of Olaphis,DS2,NPC,Lost Bastille,Straid
+201,Stray Demon,DS1,Boss,Northern Undead Asylum,
+202,Strowen,DS2,NPC,Things Betwixt,
+203,Sweet Shalquoir,DS2,NPC,Majula,Shalquoir
+204,Sword Master,DS3,NPC,Firelink Shrine,Sword|Master
+205,Taurus Demon,DS1,Boss,Undead Burg,Taurus
+206,The Bed of Chaos,DS1,Boss,Lost Izalith,
+207,The Black Knight,DS1,Boss,Health,
+208,The Bridge Wyvern,DS1,Boss,Undead Burg,
+209,The Channeler,DS1,Boss,"Undead Parish, Depths, The Duke's Archives",
+210,The Duke Dear Freja,DS2,Boss,Brightstone Cove Tseldora,Freja
+211,The Last Giant,DS2,Boss,Forest of Fallen Giants,
+212,The Rotten,DS2,Boss,Black Gulch,
+213,The Skeleton Lords,DS2,Boss,Huntsman's Copse,
+214,Throne Watcher and Throne Defender,DS2,Boss,Throne Of Want,Defender
+215,Titanite Demon,DS1,Boss,"Darkroot Garden, ,, Sen's Fortress, ,, Anor Londo, ,, The Catacombs, ,, Lost Izalith",
+216,Titchy Gren,DS2,NPC,Undead Purgatory,Titchy|Gren
+217,Velka the Goddess of Sin,DS3,NPC,Undead Settlement,Velka
+218,Velstadt,DS2,Boss,Undead Crypt,
+219,Vendrick,DS2,NPC,"Black Gulch, Undead Crypt",
+220,Vince of Thorolund,DS1,NPC,"Firelink Shrine, Tomb of the Giants",Vince
+221,Vordt of the Boreal Valley,DS3,Boss,High Wall of Lothric,Vordt
+222,Witch Beatrice,DS1,NPC,The Abyss,Beatrice
+223,Yellowfinger Heysel,DS3,NPC,Road of Sacrifices,Yellowfinger|Heysel
+224,Yhorm the Giant,DS3,Boss,Profaned Capital,Yhorm
+225,Yoel of Londor,DS3,NPC,Undead Settlement,Yoel
+226,Yuria of Londor,DS3,NPC,Firelink Shrine,Yuria
+227,hydra,DS1,Boss,Darkroot Basin,
